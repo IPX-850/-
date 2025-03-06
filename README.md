@@ -1,4 +1,5 @@
-# -
+# -E站图片下载器
+downloader for e-hentai
 添加完cookie的内容后
 
 cookies = {
